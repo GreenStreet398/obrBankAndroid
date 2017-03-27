@@ -1,0 +1,15 @@
+C:\Users\lolol\OneDrive\Документы\Visual Studio 2015\Projects\RemoteNotification\MessageSender\bin\Debug\MessageSender.exe.config
+C:\Users\lolol\OneDrive\Документы\Visual Studio 2015\Projects\RemoteNotification\MessageSender\bin\Debug\MessageSender.exe
+C:\Users\lolol\OneDrive\Документы\Visual Studio 2015\Projects\RemoteNotification\MessageSender\bin\Debug\MessageSender.pdb
+C:\Users\lolol\OneDrive\Документы\Visual Studio 2015\Projects\RemoteNotification\MessageSender\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lolol\OneDrive\Документы\Visual Studio 2015\Projects\RemoteNotification\MessageSender\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lolol\OneDrive\Документы\Visual Studio 2015\Projects\RemoteNotification\MessageSender\obj\Debug\MessageSender.csprojResolveAssemblyReference.cache
+C:\Users\lolol\OneDrive\Документы\Visual Studio 2015\Projects\RemoteNotification\MessageSender\obj\Debug\MessageSender.exe
+C:\Users\lolol\OneDrive\Документы\Visual Studio 2015\Projects\RemoteNotification\MessageSender\obj\Debug\MessageSender.pdb
+C:\Users\lolol\Desktop\RemoteNotification\MessageSender\bin\Debug\MessageSender.exe.config
+C:\Users\lolol\Desktop\RemoteNotification\MessageSender\bin\Debug\MessageSender.exe
+C:\Users\lolol\Desktop\RemoteNotification\MessageSender\bin\Debug\MessageSender.pdb
+C:\Users\lolol\Desktop\RemoteNotification\MessageSender\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lolol\Desktop\RemoteNotification\MessageSender\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lolol\Desktop\RemoteNotification\MessageSender\obj\Debug\MessageSender.exe
+C:\Users\lolol\Desktop\RemoteNotification\MessageSender\obj\Debug\MessageSender.pdb

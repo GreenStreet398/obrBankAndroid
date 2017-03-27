@@ -1,0 +1,8 @@
+C:\Users\lolol\Desktop\RemoteNotification\MessageSender\bin\Release\MessageSender.exe.config
+C:\Users\lolol\Desktop\RemoteNotification\MessageSender\bin\Release\MessageSender.exe
+C:\Users\lolol\Desktop\RemoteNotification\MessageSender\bin\Release\MessageSender.pdb
+C:\Users\lolol\Desktop\RemoteNotification\MessageSender\bin\Release\Newtonsoft.Json.dll
+C:\Users\lolol\Desktop\RemoteNotification\MessageSender\bin\Release\Newtonsoft.Json.xml
+C:\Users\lolol\Desktop\RemoteNotification\MessageSender\obj\Release\MessageSender.csprojResolveAssemblyReference.cache
+C:\Users\lolol\Desktop\RemoteNotification\MessageSender\obj\Release\MessageSender.exe
+C:\Users\lolol\Desktop\RemoteNotification\MessageSender\obj\Release\MessageSender.pdb

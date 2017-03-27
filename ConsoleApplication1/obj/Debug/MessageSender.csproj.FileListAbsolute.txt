@@ -1,0 +1,8 @@
+C:\Users\lolol\OneDrive\Документы\Visual Studio 2015\Projects\RemoteNotification\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\lolol\OneDrive\Документы\Visual Studio 2015\Projects\RemoteNotification\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\lolol\OneDrive\Документы\Visual Studio 2015\Projects\RemoteNotification\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\lolol\OneDrive\Документы\Visual Studio 2015\Projects\RemoteNotification\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lolol\OneDrive\Документы\Visual Studio 2015\Projects\RemoteNotification\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lolol\OneDrive\Документы\Visual Studio 2015\Projects\RemoteNotification\ConsoleApplication1\obj\Debug\MessageSender.csprojResolveAssemblyReference.cache
+C:\Users\lolol\OneDrive\Документы\Visual Studio 2015\Projects\RemoteNotification\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\lolol\OneDrive\Документы\Visual Studio 2015\Projects\RemoteNotification\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
